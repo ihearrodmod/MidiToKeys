@@ -20,4 +20,4 @@ Option + Shift + S will enable/disable the keystroke functionality
 
 Option + Shift + D will change the device being used for input
 
-init.lua inside MidiToKeys.spoon can be modified to change the MIDI to keystroke mapping
+init.lua inside MidiToKeys.spoon can be modified (through right click -> Show Package Contents) to change the MIDI to keystroke mapping
